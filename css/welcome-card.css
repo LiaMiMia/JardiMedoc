@@ -1,0 +1,49 @@
+.welcome-card{
+    width: var(--100);
+    height: var(--70);
+    padding: 1em;
+    font-family: var(--the-font);
+}
+
+.welcome-card_image-potager{
+    display: block;
+    margin-bottom: 2em;
+    width: 80%;
+    object-fit: contain;
+}
+.welcome-card_image-potager, .welcome-card_text, .welcome-card_title {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.welcome-card_title{
+    font-weight: 600;
+}
+
+@media only screen and (min-width: 900px){
+    .welcome-card_content{
+        display: flex;
+        justify-content: space-around;
+
+    }
+
+    .welcome-card_title{
+        margin-left: 1em;
+        color: var(--vert-logo);
+    }
+
+    .welcome-card_image-potager, .welcome-card_text{
+        width: 40%;
+        margin: 1em;
+
+    }
+    .welcome-card_image-potager{
+        object-fit: contain;
+    }
+
+    .welcome-card_content_secondCard{
+        flex-direction: row-reverse;
+    }
+    
+}
