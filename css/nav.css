@@ -1,8 +1,8 @@
 .navigation{
     padding: 1em;
     font-family: var(--the-font);
-    color: var(--vert-logo);
     font-weight: 800;
+    background-color: #9ecfb8;
 }
 
 .accueil{
