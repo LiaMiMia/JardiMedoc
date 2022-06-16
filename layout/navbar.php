@@ -5,8 +5,8 @@
   </button>
   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
     <div class="navbar-nav">
-      <a class="nav-item nav-link active" href="#">Accueil</a>
-      <a class="nav-item nav-link" href="#">Évènements</a>
+      <a class="nav-item nav-link active" href="/evaluationHtml:css/">Accueil</a>
+      <a class="nav-item nav-link" href="/evaluationHtml:css/Events.php">Évènements</a>
       <a class="nav-item nav-link disabled" href="#">Contacts</a>
     </div>
   </div>

@@ -19,16 +19,7 @@
         <i class="fab fa-twitter"></i>
       </a>
       <a href="" class="me-4 text-reset">
-        <i class="fab fa-google"></i>
-      </a>
-      <a href="" class="me-4 text-reset">
         <i class="fab fa-instagram"></i>
-      </a>
-      <a href="" class="me-4 text-reset">
-        <i class="fab fa-linkedin"></i>
-</a>
-      <a href="" class="me-4 text-reset">
-        <i class="fab fa-github"></i>
       </a>
     </div>
     <!-- Right -->
@@ -47,8 +38,8 @@
             <i class="fas fa-gem me-3"></i>Jardi Médoc
           </h6>
           <p>
-            Here you can use rows and columns to organize your footer content. Lorem ipsum
-            dolor sit amet, consectetur adipisicing elit.
+            là ou les idéées germent, rejoignez-nous lors d'un de nos <a href="" class="link-dark event-link">évènement</a>. 
+            Convivialité, bienveillance, partage autours du potager garanti ! 
           </p>
         </div>
           
@@ -58,13 +49,13 @@
           <h6 class="text-uppercase fw-bold mb-4">
             Contact
           </h6>
-          <p><i class="fas fa-home me-3"></i> New York, NY 10012, US</p>
+          <p><i class="fas fa-home me-3"></i> 33 route du Bonheur 33456 MédocMédoc</p>
           <p>
             <i class="fas fa-envelope me-3"></i>
-            info@example.com
+            contacts@jardimedoc.com
           </p>
-          <p><i class="fas fa-phone me-3"></i> + 01 234 567 88</p>
-          <p><i class="fas fa-print me-3"></i> + 01 234 567 89</p>
+          <p><i class="fas fa-phone me-3"></i> + 33 0 00 00 00 00</p>
+          <p><i class="fas fa-print me-3"></i> + 33 0 00 00 00 00</p>
         </div>
         <!-- Grid column -->
       </div>
@@ -76,7 +67,7 @@
   <!-- Copyright -->
   <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05);">
     © 2021 Copyright:
-    <a class="text-reset fw-bold" href="https://mdbootstrap.com/">MDBootstrap.com</a>
+    <a class="text-reset fw-bold" href="">Letsdevtogether.com</a>
   </div>
   <!-- Copyright -->
 </footer>

@@ -36,18 +36,18 @@
 </head>
 <body>
     <header class="header">
-        <?php require_once('layout/navbar.php') ?>
+        <?php require('/Applications/MAMP/htdocs/evaluationHtml:css/layout/navbar.php') ?>
     </header>
     <div class="space-band">
     </div>
     <main>
         <?php
-        require_once('pages/WelcomePage/WelcomePageConstruction.php');
+        require_once('pages/EnventsPage/EventPageConstruction.php');
         ?>
     </main>
     <footer>
         <?php
-        require_once('layout/footer.php');
+        require_once('/Applications/MAMP/htdocs/evaluationHtml:css/layout/footer.php');
         ?>
     </footer>
 
