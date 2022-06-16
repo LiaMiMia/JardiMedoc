@@ -5,6 +5,9 @@
     width: 18rem;
 }
 
+.event-card_img{
+    height: 30%;
+}
 .event-card_title{
     font-weight: 600;
 }

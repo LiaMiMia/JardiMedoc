@@ -45,6 +45,7 @@
         require_once('pages/WelcomePage/WelcomePageConstruction.php');
         ?>
     </main>
+    <div class="space-band"></div>
     <footer>
         <?php
         require_once('layout/footer.php');

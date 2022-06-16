@@ -3,8 +3,9 @@
     color: var(--vert-logo);
     width: var(--100);
     height: var(--70);
-    padding: 1em;
+    padding: 3em;
     font-family: var(--the-font);
+
 }
 
 .welcome-card_image-potager{
@@ -18,7 +19,10 @@
     margin-left: auto;
     margin-right: auto;
 }
-
+.welcome-card_text{
+    margin-top: auto;
+    margin-bottom: auto;
+}
 .welcome-card_title{
     font-weight: 600;
 }
