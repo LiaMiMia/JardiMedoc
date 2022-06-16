@@ -26,7 +26,7 @@
       </a>
       <a href="" class="me-4 text-reset">
         <i class="fab fa-linkedin"></i>
-      </a>
+</a>
       <a href="" class="me-4 text-reset">
         <i class="fab fa-github"></i>
       </a>

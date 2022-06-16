@@ -21,6 +21,7 @@
     <link rel="stylesheet" href="css/logoComplet.css">
     <link rel="stylesheet" href="css/index.css">
     <link rel="stylesheet" href="css/variables.css">
+    <link rel="stylesheet" href="css/footer.css">
 
 
     
