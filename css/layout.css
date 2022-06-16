@@ -1,0 +1,19 @@
+body{
+    background-color: var(--jaune-logo-clair);
+}
+.header{
+    width:100%;
+}
+
+.space-band{
+    height: 3em;
+    width: 100%;
+}
+
+@media only screen and (min-width: 900px){
+.flux{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    }
+}

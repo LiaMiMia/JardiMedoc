@@ -1,4 +1,6 @@
 .welcome-card{
+    background-color: white;
+    color: var(--vert-logo);
     width: var(--100);
     height: var(--70);
     padding: 1em;

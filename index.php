@@ -19,7 +19,7 @@
     <link rel="stylesheet" href="css/nav.css">
     <link rel="stylesheet" href="css/welcome-card.css">
     <link rel="stylesheet" href="css/logoComplet.css">
-    <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="css/layout.css">
     <link rel="stylesheet" href="css/variables.css">
     <link rel="stylesheet" href="css/footer.css">
 
@@ -40,7 +40,7 @@
     </header>
     <div class="space-band">
     </div>
-    <main>
+    <main class="flux">
         <?php
         require_once('pages/WelcomePage/WelcomePageConstruction.php');
         ?>

@@ -1,0 +1,38 @@
+.event-card{
+    margin-left: auto;
+    margin-right: auto;
+    font-family: var(--the-font);
+    width: 18rem;
+}
+
+.event-card_title{
+    font-weight: 600;
+}
+
+strong, .event-card_title{
+    color: var(--vert-logo)
+}
+
+.event-card_button{
+    background-color: var(--vert-logo);
+    border-color: var(--vert-logo);
+}
+    @media only screen and (min-width: 900px){
+        .space-band{
+            display: none;
+        }
+        .event-card{
+            width: 30%;
+            margin: 1rem;
+            justify-content: space-around;
+        }
+
+        .event-cards-block{
+            display: flex;
+        }
+
+        .space-band-top, .space-band-bottom{
+            height: 3rem;
+        }
+
+}
