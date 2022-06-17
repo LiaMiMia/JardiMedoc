@@ -6,6 +6,6 @@
     <p><strong>Date :</strong> Jeudi 3 juin</p>
     <p><strong>Heure :</strong> à partir de 18h</p>
     <p><strong>Lieu :</strong> Jardi Médoc association</p>
-    <a href="#" class="btn btn-primary event-card_button">s'inscrire</a>
+    <a href="#" class="btn event-card_button">s'inscrire</a>
   </div>
 </div>

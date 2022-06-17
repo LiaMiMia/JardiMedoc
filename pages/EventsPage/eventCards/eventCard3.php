@@ -5,6 +5,6 @@
     <p class="card-text">Notre ami Jeannot a besoin d'un coup de main pour la mise en place d'un potager en lasagnes une bonne occasion de nous retrouver et d'en apprendre un eu plus sur cette methode.</p>
     <p><strong>Date :</strong> samedi 6 juillet</p>
     <p><strong>Heure :</strong> à partir de 19h</p>
-    <a href="#" class="btn btn-primary event-card_button">s'inscrire</a>
+    <a href="#" class="btn event-card_button">s'inscrire</a>
   </div>
 </div>

@@ -1,0 +1,35 @@
+
+
+.formulaire{
+    background-color: white;
+    padding: 3rem;
+    font-family: var(--the-font);
+}
+
+.formulaire-div_mail{
+    width: 50%;
+
+}
+.formulaire-div_nom{
+    display: flex;
+    justify-content: space-between;
+}
+
+.formulaire-div-message, .formulaire-div_nom, .formulaire-div_nom-prénom, .formulaire-div_nom-nom, .formulaire-div_mail, .formulaire_button{
+    padding: 3px;
+}
+
+.formulaire_button{
+    background-color: var(--vert-logo);
+    border-color: var(--vert-logo);
+    margin: 10px;
+    color: white; 
+}
+
+.formulaire_button:hover{
+    color: var(--vert-logo);
+}
+
+.formulaire-div_nom-prénom, .formulaire-div_nom-nom{
+    width: 40%;
+}

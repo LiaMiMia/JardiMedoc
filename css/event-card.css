@@ -23,11 +23,14 @@ strong, .event-card_title{
     position: absolute;
     bottom: 1rem;
     left: 1rem;
+    color: white
 }
+.event-card_button:hover{
+    color: var(--vert-logo)
+}
+
     @media only screen and (min-width: 900px){
-        .space-band{
-            display: none;
-        }
+
         .event-card{
             width: 30%;
             margin: 1rem;

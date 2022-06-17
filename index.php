@@ -18,6 +18,7 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous"/>
     
     <!-- my CSS folders -->
+    <link rel="stylesheet" href="css/all.css">
     <link rel="stylesheet" href="css/nav.css">
     <link rel="stylesheet" href="css/welcome-card.css">
     <link rel="stylesheet" href="css/logoComplet.css">

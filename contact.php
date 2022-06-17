@@ -17,11 +17,15 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous"/>
     
     <!-- my CSS folders -->
+    <link rel="stylesheet" href="css/all.css">
     <link rel="stylesheet" href="css/nav.css">
     <link rel="stylesheet" href="css/logoComplet.css">
     <link rel="stylesheet" href="css/layout.css">
     <link rel="stylesheet" href="css/variables.css">
     <link rel="stylesheet" href="css/footer.css">
+    <link rel="stylesheet" href="css/contact.css">
+    <link rel="stylesheet" href="css/form.css">
+
 
 
 
@@ -39,7 +43,6 @@
     <header class="header">
         <?php require('/Applications/MAMP/htdocs/evaluationHtml:css/layout/navbar.php') ?>
     </header>
-    <div class="space-band">
     </div>
     <main class="flux">
             <?php

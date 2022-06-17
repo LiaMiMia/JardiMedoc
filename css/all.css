@@ -1,0 +1,20 @@
+*{
+    font-family: var(--the-font);
+}
+
+h1, h2{
+    color: var(--vert-logo);
+    font-weight: 800;
+}
+
+.space-band, .event-cards-block_space-band{
+    height: 3em;
+    width: 100%;
+}
+
+@media only screen and (min-width: 900px){
+    .event-cards-block_space-band{
+        display: none;
+    }
+
+}

@@ -55,7 +55,6 @@
             contacts@jardimedoc.com
           </p>
           <p><i class="fas fa-phone me-3"></i> + 33 0 00 00 00 00</p>
-          <p><i class="fas fa-print me-3"></i> + 33 0 00 00 00 00</p>
         </div>
         <!-- Grid column -->
       </div>
