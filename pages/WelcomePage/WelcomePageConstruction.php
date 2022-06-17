@@ -1,3 +1,9 @@
+        
+<?php 
+        require('pages/WelcomePage/welcomePageTitles/welcomepagetitle.php');
+
+        ?>
+        <div class="space-band"></div>
 <?php 
         require('pages/WelcomePage/WelcomePageCards/firstCardWelcomePage.php');
 

@@ -1,9 +1,15 @@
+.footer{
+    background-color: var(--gris-fonce);
+    color: var(--jaune-logo-clair)
+}
 a{
     text-decoration: none;
+    
 }
 
 .event-link{
     text-decoration: underline;
+    color: var(--marron);
 }
 
 .event-link:hover{

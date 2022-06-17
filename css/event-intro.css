@@ -1,0 +1,9 @@
+.event-intro{
+    background-color: white;
+    font-family: var(--the-font);
+    font-weight: 600;
+    color: var(--vert-logo);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2rem;
+}

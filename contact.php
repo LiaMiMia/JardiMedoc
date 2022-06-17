@@ -1,8 +1,7 @@
-
+<?php header("Cache-Control: no-cache, must-revalidate"); ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<?php header("Cache-Control: no-cache, must-revalidate"); ?>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -19,12 +18,11 @@
     
     <!-- my CSS folders -->
     <link rel="stylesheet" href="css/nav.css">
-    <link rel="stylesheet" href="css/welcome-card.css">
     <link rel="stylesheet" href="css/logoComplet.css">
     <link rel="stylesheet" href="css/layout.css">
     <link rel="stylesheet" href="css/variables.css">
     <link rel="stylesheet" href="css/footer.css">
-    <link rel="stylesheet" href="css/welcomeTitle.css">
+
 
 
     
@@ -39,19 +37,18 @@
 </head>
 <body>
     <header class="header">
-        <?php require_once('layout/navbar.php') ?>
+        <?php require('/Applications/MAMP/htdocs/evaluationHtml:css/layout/navbar.php') ?>
     </header>
     <div class="space-band">
     </div>
     <main class="flux">
-        <?php
-        require_once('pages/WelcomePage/WelcomePageConstruction.php');
-        ?>
+            <?php
+            require_once('pages/ContactPage/ContactPageConstruction.php');
+            ?>
     </main>
-    <div class="space-band"></div>
     <footer>
         <?php
-        require_once('layout/footer.php');
+        require_once('/Applications/MAMP/htdocs/evaluationHtml:css/layout/footer.php');
         ?>
     </footer>
 

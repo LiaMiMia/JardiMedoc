@@ -4,8 +4,14 @@
     <img src="images/team-jardiniers.jpeg" alt="photo panier de légumes et légumes potagers" class="welcome-card_image-potager">
         <div class="welcome-card_text">
             <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis cursus est in pulvinar. Etiam iaculis auctor leo nec elementum. Morbi rhoncus diam ut varius imperdiet. Suspendisse potenti. Vivamus ultrices dapibus risus sed blandit. Aenean fermentum, enim et eleifend gravida, risus magna faucibus turpis, auctor congue dui neque et arcu. Curabitur nisi risus, maximus sed hendrerit eu, pellentesque sed risus. Proin volutpat pretium facilisis. Nulla iaculis fermentum purus, eget malesuada ligula dignissim et. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas nec placerat sapien. Sed hendrerit posuere est, ac dignissim eros sagittis nec. Nunc at est ac dolor efficitur maximus.
+                C'est en 2018 que Aurore et Nicolas ont décidés de regrouper leurs amis, voisins, connaissances. 
+                Car dans le médoc nombreux sont les créateurs de potagers, nombreux sont les jardiniers qui croient en une culture 
+                en adéquation avec la nature. C'est donc naturellement que ce regroupement s'est transformé en association. 
+                Cette organisation nous permet de mettre en commun des idées, connaissances, mais aussi du materiel, des semences. 
+                Nous sommes également partisants de l'entraide et de la bienveillance. N'hésitez pas à nous rejoindre ou a nous contacter pour davantage d'informations. 
+                
             </p>
+            <p>Jardi Médoc</p>
         </div>
     </div>
 </div>

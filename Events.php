@@ -1,3 +1,4 @@
+<?php header("Cache-Control: no-cache, must-revalidate"); ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -22,6 +23,8 @@
     <link rel="stylesheet" href="css/layout.css">
     <link rel="stylesheet" href="css/variables.css">
     <link rel="stylesheet" href="css/footer.css">
+    <link rel="stylesheet" href="css/event-intro.css">
+
 
 
     

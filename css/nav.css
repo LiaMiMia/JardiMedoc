@@ -2,9 +2,18 @@
     padding: 1em;
     font-family: var(--the-font);
     font-weight: 800;
-    background-color: #9ecfb8;
+    background-color: var(--gris-fonce);
 }
 
-.accueil{
-    color: var(--vert-logo);
+.accueil {
+    color: var(--jaune-logo-clair);
 }
+
+.evenement, .contacts{
+    color: var(--marron)
+}
+
+.navigation-button{
+    background-color: var(--jaune-logo-clair);
+}
+

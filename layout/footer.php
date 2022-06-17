@@ -1,5 +1,5 @@
 <!-- Footer -->
-<footer class="text-center text-lg-start bg-light text-muted">
+<footer class="text-center text-lg-start footer">
   <!-- Section: Social media -->
   <section
     class="d-flex justify-content-center justify-content-lg-between p-4 border-bottom"
@@ -38,7 +38,7 @@
             <i class="fas fa-gem me-3"></i>Jardi Médoc
           </h6>
           <p>
-            là ou les idéées germent, rejoignez-nous lors d'un de nos <a href="" class="link-dark event-link">évènement</a>. 
+            là ou les idéées germent, rejoignez-nous lors d'un de nos <a href="" class="event-link">évènement</a>. 
             Convivialité, bienveillance, partage autours du potager garanti ! 
           </p>
         </div>

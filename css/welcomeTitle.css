@@ -1,0 +1,10 @@
+.welcomePage-title{
+    background-color: white;
+    color:var(--vert-logo);
+    font-family: var(--the-font);
+    font-weight: 800;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 3rem;
+    text-align: center;
+}

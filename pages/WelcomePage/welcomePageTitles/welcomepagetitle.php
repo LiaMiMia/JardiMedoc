@@ -1,0 +1,1 @@
+<h1 class="welcomePage-title">Bienvenu sur le site de Jardi Médoc !</h1>
