@@ -14,4 +14,5 @@ le site a été pensé mobile first comme demandé, la mise en page a été ensu
 Couleurs: 
 j'ai essayé de créer un site sobre avec un code couleur qui fonctionne avec le thème du jardinage. 
 
-
+Git : 
+j'ai tenté au maximum de diviser mon travail par pages et ai crée 4 branch en ce sens (la branche "footer" traite le header et le footer). 
