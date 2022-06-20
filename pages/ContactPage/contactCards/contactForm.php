@@ -21,7 +21,7 @@
             <label for="exampleFormControlTextarea1">Message</label>
             <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
         </div>
-            <a href="#" class="btn formulaire_button">Soumettre le formulaire</a>
+        <a href="#" class="btn formulaire_button">Envoyer</a>
 
     </form>
 </div>

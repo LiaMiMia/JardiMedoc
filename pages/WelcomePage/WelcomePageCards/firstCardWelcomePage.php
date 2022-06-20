@@ -1,5 +1,5 @@
 <div class="welcome-card">
-    <h3 class="welcome-card_title">Notre association</h3>
+    <h2 class="welcome-card_title">Notre association</h2>
     <div class="welcome-card_content">
     <img src="images/potager.png" alt="photo panier de légumes et légumes potagers" class="welcome-card_image-potager">
         <div class="welcome-card_text">

@@ -7,7 +7,7 @@
     <div class="navbar-nav">
       <a class="nav-item nav-link accueil" href="/evaluationHtml:css/" >Accueil</a>
       <a class="nav-item nav-link evenement" href="/evaluationHtml:css/Events.php">Évènements</a>
-      <a class="nav-item nav-link contacts" href="/evaluationHtml:css/contact.php">Contacts</a>
+      <a class="nav-item nav-link contacts-nav" href="/evaluationHtml:css/contact.php">Contacts</a>
     </div>
   </div>
 </nav>

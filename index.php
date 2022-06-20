@@ -42,7 +42,6 @@
     <header class="header">
         <?php require_once('layout/navbar.php') ?>
     </header>
-    <div class="space-band">
     </div>
     <main class="flux">
         <?php

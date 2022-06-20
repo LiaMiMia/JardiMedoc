@@ -42,7 +42,6 @@
     <header class="header">
         <?php require('/Applications/MAMP/htdocs/evaluationHtml:css/layout/navbar.php') ?>
     </header>
-    <div class="space-band">
     </div>
     <main class="flux">
             <?php

@@ -1,5 +1,5 @@
 <div class="welcome-card">
-    <h3 class="welcome-card_title">Notre histoire</h3>
+    <h2 class="welcome-card_title">Notre histoire</h2>
     <div class="welcome-card_content welcome-card_content_secondCard">
     <img src="images/team-jardiniers.jpeg" alt="photo panier de légumes et légumes potagers" class="welcome-card_image-potager">
         <div class="welcome-card_text">
